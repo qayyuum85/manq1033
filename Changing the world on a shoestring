@@ -1,0 +1,626 @@
+{
+  "title": "Changing the world on a shoestring: The concept of SE",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "Perspectives",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Academic",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Entrepreneur Definition",
+              "id": 19,
+              "ideas": {
+                "1": {
+                  "title": "French word \"entreprende\"",
+                  "id": 20
+                },
+                "2": {
+                  "title": "Richard Cantillon ",
+                  "id": 22,
+                  "ideas": {
+                    "1": {
+                      "title": "'Undertakers' engaged in market exchanges at their own risk for the purpose of making profit",
+                      "id": 28,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Major tradition created",
+                      "id": 34,
+                      "ideas": {
+                        "1": {
+                          "title": "Germany, Joseph Schumpeter - Innovation",
+                          "id": 35
+                        },
+                        "2": {
+                          "title": "Chicago, Knight - Work on risk",
+                          "id": 36
+                        },
+                        "3": {
+                          "title": "Austria, Israel Kirzner- Alertness to opportunity",
+                          "id": 37
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Shane and Venkataram's Framework",
+                  "id": 23,
+                  "ideas": {
+                    "1": {
+                      "title": "Social Science Discipline",
+                      "id": 24
+                    },
+                    "2": {
+                      "title": "Applied fields of business",
+                      "id": 26
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Who is entrepreneur?",
+                  "id": 29,
+                  "ideas": {
+                    "1": {
+                      "title": "Discover, evaluate and exploits profitable opportunities",
+                      "id": 30,
+                      "attr": {
+                        "position": [
+                          94.25,
+                          -88.5,
+                          1
+                        ],
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Risk taking into account",
+                      "id": 31,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Alertness to opportunity",
+                      "id": 32,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  51.214111328125,
+                  -455.0904541015627,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "SE Definition",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": "Does not generate profit",
+                  "id": 39
+                },
+                "2": {
+                  "title": "Address social need",
+                  "id": 40
+                },
+                "3": {
+                  "title": "Operate in the community",
+                  "id": 41
+                },
+                "4": {
+                  "title": "Concern on caring and helping",
+                  "id": 42
+                }
+              },
+              "attr": {
+                "position": [
+                  142.766845703125,
+                  117.66369628906193,
+                  2
+                ],
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Practitioner",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "Focus on attributes",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "Charles Handy",
+                  "id": 45,
+                  "ideas": {
+                    "1": {
+                      "title": "Passion",
+                      "id": 46
+                    },
+                    "2": {
+                      "title": "Ability to leap beyond rational and logical and to stick with dream",
+                      "id": 47
+                    },
+                    "3": {
+                      "title": "Doggedness, arrogance",
+                      "id": 48
+                    },
+                    "4": {
+                      "title": "Looks thing differently",
+                      "id": 49
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      657.7478027343745,
+                      -708.0164356231696,
+                      7
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Ashoka",
+                  "id": 50,
+                  "ideas": {
+                    "1": {
+                      "title": "Founded by Bill Drayton",
+                      "id": 51,
+                      "ideas": {
+                        "1": {
+                          "title": "Radical thinker",
+                          "id": 58
+                        },
+                        "2": {
+                          "title": "Caring, compassionate, moral",
+                          "id": 59
+                        },
+                        "3": {
+                          "title": "Recognize importance of business",
+                          "id": 60
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Global non-profit organisation",
+                      "id": 52
+                    },
+                    "3": {
+                      "title": "Provided funds to those who leads to social change in everything",
+                      "id": 53
+                    },
+                    "4": {
+                      "title": "Only looks for extraordinary individual with novel idea",
+                      "id": 54
+                    },
+                    "5": {
+                      "title": "Operated in 46 countries, 1400 social entreprenuers",
+                      "id": 56
+                    },
+                    "6": {
+                      "title": "Jeroo Billimoria",
+                      "id": 63,
+                      "ideas": {
+                        "1": {
+                          "title": "Launched India first 24 hour emergency telephone service in 1996",
+                          "id": 64
+                        },
+                        "2": {
+                          "title": "Trade her own expertise with others, creating long-term partnership",
+                          "id": 65
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      352.57202148437455,
+                      -144.24311065673942,
+                      4
+                    ],
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Edmund Hillary",
+                  "id": 66,
+                  "ideas": {
+                    "1": {
+                      "title": "First person to climb Everest",
+                      "id": 69
+                    },
+                    "2": {
+                      "title": "Humanitarian efforts done in 40 years",
+                      "id": 70
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      417.42187499999955,
+                      383.10238647460824,
+                      5
+                    ],
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Rewi Alley",
+                  "id": 71,
+                  "ideas": {
+                    "1": {
+                      "title": "Keep production away from coast, move into inland",
+                      "id": 72,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Provide jobs to refugees",
+                      "id": 73
+                    },
+                    "3": {
+                      "title": "Become the legend called Ai-lao",
+                      "id": 77
+                    },
+                    "0.5": {
+                      "title": "Influence some of the great transformation of 20th Century China",
+                      "id": 75,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      436.49536132812455,
+                      662.2459030151356,
+                      6
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "SE Definition",
+              "id": 78,
+              "ideas": {
+                "1": {
+                  "title": "Over the top",
+                  "id": 79
+                },
+                "2": {
+                  "title": "Naive and idealistic or even unrealistic",
+                  "id": 80
+                }
+              },
+              "attr": {
+                "position": [
+                  173.284423828125,
+                  599.2858886718741,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "title": "Conclusion",
+      "id": 117,
+      "ideas": {
+        "1": {
+          "title": "Similarity",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Innovative",
+              "id": 120
+            },
+            "2": {
+              "title": "Possess high amount of energy, tenacity and resilience",
+              "id": 121,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Driven by a vision",
+              "id": 122
+            }
+          }
+        },
+        "2": {
+          "title": "Difference",
+          "id": 124,
+          "ideas": {
+            "1": {
+              "title": "Motivation",
+              "id": 125
+            },
+            "2": {
+              "title": "Purpose",
+              "id": 126
+            }
+          }
+        },
+        "3": {
+          "title": "No clear boundaries",
+          "id": 127
+        },
+        "4": {
+          "title": "Not same as charity",
+          "id": 129
+        },
+        "5": {
+          "title": "Future research",
+          "id": 130,
+          "ideas": {
+            "1": {
+              "title": "Grow awareness",
+              "id": 131
+            },
+            "2": {
+              "title": "Support for this tool for social transformation",
+              "id": 132
+            },
+            "3": {
+              "title": "Capture the essence of processes and techniques of SE",
+              "id": 133
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          165.01489257812364,
+          853.9531249999973,
+          5
+        ],
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "SE Working Definition",
+      "id": 11,
+      "attr": {
+        "position": [
+          370.24609375,
+          -112.92626953125045,
+          4
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Sullivan Mort et. al.",
+          "id": 82,
+          "ideas": {
+            "1": {
+              "title": "Virtuousness to create social value",
+              "id": 83
+            },
+            "2": {
+              "title": "Unity of purpose and action in the face of complexity",
+              "id": 84
+            },
+            "3": {
+              "title": "Ability to recognize opportunities to create better social values",
+              "id": 85
+            },
+            "4": {
+              "title": "Propensity for risk-taking, proactiveness and innovativeness in decision-making",
+              "id": 86
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Thompson",
+          "id": 89,
+          "ideas": {
+            "1": {
+              "title": "Centrality of opportunity in SE",
+              "id": 90
+            }
+          }
+        },
+        "3": {
+          "title": "Construction, evaluation and pursuit of opportunities for transformative social change carried out by visionary, passionately dedicated individuals",
+          "id": 91
+        }
+      }
+    },
+    "-5": {
+      "title": "Introduction",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Oxymorons",
+          "id": 12
+        },
+        "2": {
+          "title": "Relatively new concept",
+          "id": 13
+        }
+      },
+      "attr": {
+        "position": [
+          336.508056640625,
+          -658.4279785156252,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-20": {
+      "title": "Story of George Wildridge",
+      "id": 93,
+      "ideas": {
+        "9": {
+          "title": "Background",
+          "id": 103,
+          "ideas": {
+            "1": {
+              "title": "Achieved the top at 30 years old",
+              "id": 95,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Managing Director of a successful import/export business",
+              "id": 96,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Have heavy gambling problem",
+              "id": 97,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              210.27734375,
+              -462.241455078125,
+              4
+            ],
+            "style": {}
+          }
+        },
+        "10": {
+          "title": "Downfall",
+          "id": 104,
+          "ideas": {
+            "1": {
+              "title": "Start to bet big with clients from Asia",
+              "id": 98,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Lost a lot of money, wife and children left him",
+              "id": 99,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Decided to setup a bogus company using money borrowed from his employer, then got found out",
+              "id": 100,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Court sentenced him on probation, declared bankrupt",
+              "id": 101,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Try to commit suicide but not successful",
+              "id": 102,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              501.2734375,
+              -144.858642578125,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "11": {
+          "title": "Rising Up",
+          "id": 106,
+          "ideas": {
+            "1": {
+              "title": "Salvation Army approached him to set up Oasis center",
+              "id": 107
+            },
+            "2": {
+              "title": "Worked in one of the clinic",
+              "id": 109
+            },
+            "3": {
+              "title": "Changed purpose, now want to save people from bad path",
+              "id": 110
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              248.25,
+              272.62182617187455,
+              3
+            ]
+          }
+        },
+        "12": {
+          "title": "Conclusion",
+          "id": 112,
+          "ideas": {
+            "1": {
+              "title": "Did not consider himself as entrepreneur",
+              "id": 114
+            },
+            "2": {
+              "title": "He just wanted to be available",
+              "id": 115
+            },
+            "3": {
+              "title": "An example of a person who pursued an opportunity for transformative social change",
+              "id": 116
+            }
+          },
+          "attr": {
+            "position": [
+              484.83203125,
+              614.4187011718745,
+              5
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          328.172607421875,
+          829.3039550781241,
+          3
+        ],
+        "style": {}
+      }
+    }
+  },
+  "attr": {
+    "style": {}
+  },
+  "links": []
+}
