@@ -309,8 +309,8 @@
               },
               "attr": {
                 "position": [
-                  173.284423828125,
-                  599.2858886718741,
+                  145.34765624999955,
+                  445.34357547759987,
                   1
                 ],
                 "style": {}
@@ -318,152 +318,12 @@
             }
           }
         }
-      }
-    },
-    "12": {
-      "title": "Conclusion",
-      "id": 117,
-      "ideas": {
-        "1": {
-          "title": "Similarity",
-          "id": 119,
-          "ideas": {
-            "1": {
-              "title": "Innovative",
-              "id": 120
-            },
-            "2": {
-              "title": "Possess high amount of energy, tenacity and resilience",
-              "id": 121,
-              "ideas": {}
-            },
-            "3": {
-              "title": "Driven by a vision",
-              "id": 122
-            }
-          }
-        },
-        "2": {
-          "title": "Difference",
-          "id": 124,
-          "ideas": {
-            "1": {
-              "title": "Motivation",
-              "id": 125
-            },
-            "2": {
-              "title": "Purpose",
-              "id": 126
-            }
-          }
-        },
-        "3": {
-          "title": "No clear boundaries",
-          "id": 127
-        },
-        "4": {
-          "title": "Not same as charity",
-          "id": 129
-        },
-        "5": {
-          "title": "Future research",
-          "id": 130,
-          "ideas": {
-            "1": {
-              "title": "Grow awareness",
-              "id": 131
-            },
-            "2": {
-              "title": "Support for this tool for social transformation",
-              "id": 132
-            },
-            "3": {
-              "title": "Capture the essence of processes and techniques of SE",
-              "id": 133
-            }
-          }
-        }
       },
       "attr": {
         "position": [
-          165.01489257812364,
-          853.9531249999973,
-          5
-        ],
-        "style": {}
-      }
-    },
-    "-10": {
-      "title": "SE Working Definition",
-      "id": 11,
-      "attr": {
-        "position": [
-          370.24609375,
-          -112.92626953125045,
-          4
-        ],
-        "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "Sullivan Mort et. al.",
-          "id": 82,
-          "ideas": {
-            "1": {
-              "title": "Virtuousness to create social value",
-              "id": 83
-            },
-            "2": {
-              "title": "Unity of purpose and action in the face of complexity",
-              "id": 84
-            },
-            "3": {
-              "title": "Ability to recognize opportunities to create better social values",
-              "id": 85
-            },
-            "4": {
-              "title": "Propensity for risk-taking, proactiveness and innovativeness in decision-making",
-              "id": 86
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        },
-        "2": {
-          "title": "Thompson",
-          "id": 89,
-          "ideas": {
-            "1": {
-              "title": "Centrality of opportunity in SE",
-              "id": 90
-            }
-          }
-        },
-        "3": {
-          "title": "Construction, evaluation and pursuit of opportunities for transformative social change carried out by visionary, passionately dedicated individuals",
-          "id": 91
-        }
-      }
-    },
-    "-5": {
-      "title": "Introduction",
-      "id": 5,
-      "ideas": {
-        "1": {
-          "title": "Oxymorons",
-          "id": 12
-        },
-        "2": {
-          "title": "Relatively new concept",
-          "id": 13
-        }
-      },
-      "attr": {
-        "position": [
-          336.508056640625,
-          -658.4279785156252,
-          2
+          499.0908203125,
+          689.1015624999986,
+          16
         ],
         "style": {}
       }
@@ -491,7 +351,7 @@
               }
             },
             "3": {
-              "title": "Have heavy gambling problem",
+              "title": "Has heavy gambling problem",
               "id": 97,
               "attr": {
                 "style": {}
@@ -611,11 +471,167 @@
       },
       "attr": {
         "position": [
-          328.172607421875,
-          829.3039550781241,
-          3
+          496.7822265624998,
+          -324.0820312500009,
+          12
         ],
         "style": {}
+      }
+    },
+    "5.5": {
+      "title": "Introduction",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Oxymorons",
+          "id": 12
+        },
+        "2": {
+          "title": "Relatively new concept",
+          "id": 13
+        }
+      },
+      "attr": {
+        "position": [
+          462.4697265625,
+          -1041.2451171875005,
+          15
+        ],
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "Conclusion",
+      "id": 117,
+      "ideas": {
+        "1": {
+          "title": "Similarity",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Innovative",
+              "id": 120
+            },
+            "2": {
+              "title": "Possess high amount of energy, tenacity and resilience",
+              "id": 121,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Driven by a vision",
+              "id": 122
+            }
+          }
+        },
+        "2": {
+          "title": "Difference",
+          "id": 124,
+          "ideas": {
+            "1": {
+              "title": "Motivation",
+              "id": 125
+            },
+            "2": {
+              "title": "Purpose",
+              "id": 126
+            }
+          }
+        },
+        "3": {
+          "title": "No clear boundaries",
+          "id": 127
+        },
+        "4": {
+          "title": "Not same as charity",
+          "id": 129
+        },
+        "5": {
+          "title": "Future research",
+          "id": 130,
+          "ideas": {
+            "1": {
+              "title": "Grow awareness",
+              "id": 131,
+              "attr": {
+                "position": [
+                  117.55999999999995,
+                  -87.85312499999736,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Support for this tool for social transformation",
+              "id": 132
+            },
+            "3": {
+              "title": "Capture the essence of processes and techniques of SE",
+              "id": 133
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          609.2998046874998,
+          -1306.7480468750005,
+          14
+        ],
+        "style": {}
+      }
+    },
+    "-30": {
+      "title": "SE Working Definition",
+      "id": 11,
+      "attr": {
+        "position": [
+          541.1445312499998,
+          921.0351562499986,
+          13
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Sullivan Mort et. al.",
+          "id": 82,
+          "ideas": {
+            "1": {
+              "title": "Virtuousness to create social value",
+              "id": 83
+            },
+            "2": {
+              "title": "Unity of purpose and action in the face of complexity",
+              "id": 84
+            },
+            "3": {
+              "title": "Ability to recognize opportunities to create better social values",
+              "id": 85
+            },
+            "4": {
+              "title": "Propensity for risk-taking, proactiveness and innovativeness in decision-making",
+              "id": 86
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Thompson",
+          "id": 89,
+          "ideas": {
+            "1": {
+              "title": "Centrality of opportunity in SE",
+              "id": 90
+            }
+          }
+        },
+        "3": {
+          "title": "Construction, evaluation and pursuit of opportunities for transformative social change carried out by visionary, passionately dedicated individuals",
+          "id": 91
+        }
       }
     }
   },
